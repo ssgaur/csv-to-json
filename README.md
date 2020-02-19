@@ -18,7 +18,7 @@ Null
 A sample CSV input file is attached below for reference, which you can use for testing the script with.
 
 Instructions
-Make your changes and push your code regularly to this repo: https://github.com/Zephony/csv-importer so that we can look at it and give you any feedback whenever we can
+Make your changes and push your code regularly to this repo, so that we can look at it and give you any feedback whenever we can
 Update the README file with instructions on what the script does and how to use it.
 Use Python3 to write the script
 Use the standard csv module in Python
@@ -28,10 +28,4 @@ Readable code with proper documentation/comments
 Edge-case coverage
 Efficiency (should be faster for large files with 1000s of rows)
 Descriptive commit messages
-We'd like to expect the script by next Wednesday (Feb 26). I understand that it can be difficult to cover all cases, so cover as much as you can within the timeframe. Feel free to let me know, however, if you need more time or if you have any questions.
 
-Kindly confirm and share your Github account details so that we can provide access to the repo. 
-
-Best Regards.
-
-P Pressy Fernando
